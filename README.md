@@ -7,8 +7,9 @@ For installing Voice assistant:
 
 run project by command : python manage.py runserver
 
+For face registration ther is password loacted in code of javascript
+
 
 ![image](https://github.com/user-attachments/assets/d718a711-1274-4420-b573-cba73adbc4d4)
 ![image](https://github.com/user-attachments/assets/c33871ea-843a-40dd-b518-944d2b9dc621)
-
-
+![image](https://github.com/user-attachments/assets/ef8d33cd-d002-4eba-b4bd-2790053e643e)
